@@ -11,14 +11,13 @@
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES"
-            hideIssues = "NO">
+            buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "262365251C87109600665B92"
-               BuildableName = "ABC.app"
-               BlueprintName = "ABC"
-               ReferencedContainer = "container:ABC.xcodeproj">
+               BlueprintIdentifier = "2691368C1C87D87A004B0970"
+               BuildableName = "ZDXZDX.app"
+               BlueprintName = "ZDXZDX"
+               ReferencedContainer = "container:ZDXZDX.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2623653E1C87109600665B92"
-               BuildableName = "ABCUITests.xctest"
-               BlueprintName = "ABCUITests"
-               ReferencedContainer = "container:ABC.xcodeproj">
+               BlueprintIdentifier = "269136A51C87D87A004B0970"
+               BuildableName = "ZDXZDXUITests.xctest"
+               BlueprintName = "ZDXZDXUITests"
+               ReferencedContainer = "container:ZDXZDX.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "262365251C87109600665B92"
-            BuildableName = "ABC.app"
-            BlueprintName = "ABC"
-            ReferencedContainer = "container:ABC.xcodeproj">
+            BlueprintIdentifier = "2691368C1C87D87A004B0970"
+            BuildableName = "ZDXZDX.app"
+            BlueprintName = "ZDXZDX"
+            ReferencedContainer = "container:ZDXZDX.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,10 +65,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "262365251C87109600665B92"
-            BuildableName = "ABC.app"
-            BlueprintName = "ABC"
-            ReferencedContainer = "container:ABC.xcodeproj">
+            BlueprintIdentifier = "2691368C1C87D87A004B0970"
+            BuildableName = "ZDXZDX.app"
+            BlueprintName = "ZDXZDX"
+            ReferencedContainer = "container:ZDXZDX.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "262365251C87109600665B92"
-            BuildableName = "ABC.app"
-            BlueprintName = "ABC"
-            ReferencedContainer = "container:ABC.xcodeproj">
+            BlueprintIdentifier = "2691368C1C87D87A004B0970"
+            BuildableName = "ZDXZDX.app"
+            BlueprintName = "ZDXZDX"
+            ReferencedContainer = "container:ZDXZDX.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
